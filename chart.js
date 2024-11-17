@@ -41,8 +41,8 @@ const config = {
         plugins: {
             title: {
                 display: true,
-                
-                
+
+
             }
         },
         scales: {
